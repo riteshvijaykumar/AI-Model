@@ -1,0 +1,51 @@
+id,question,unit,topic,difficulty,type,keywords,answer,marks
+1,What is the capital of France?,Unit 1,geography,easy,text,"geography,capitals,france",Paris,2
+2,Calculate 15 * 23,Unit 1,mathematics,easy,numeric,"math,multiplication,arithmetic",345,2
+3,What is the chemical symbol for gold?,Unit 2,chemistry,medium,text,"chemistry,elements,symbols",Au,2
+4,Write a Python function to find the maximum of two numbers,Unit 3,programming,medium,code,"python,programming,functions","def max_two(a, b): return a if a > b else b",16
+5,Explain the causes of World War I in detail,Unit 4,history,medium,essay,"history,world war,causes","Multiple factors including nationalism, imperialism, alliance system, and the assassination of Archduke Franz Ferdinand. The complex web of alliances created tensions that eventually led to global conflict.",16
+6,What is 2 + 2?,Unit 1,mathematics,easy,numeric,"math,addition,basic",4,2
+7,Name the three states of matter,Unit 2,science,easy,text,"science,physics,states of matter","solid, liquid, gas",2
+8,What is the largest planet in our solar system?,Unit 2,astronomy,easy,text,"astronomy,planets,solar system",Jupiter,2
+9,Define photosynthesis and explain its process,Unit 2,biology,medium,essay,"biology,plants,photosynthesis","The process by which plants convert light energy into chemical energy using chlorophyll. It involves the conversion of carbon dioxide and water into glucose and oxygen in the presence of sunlight.",16
+10,What is the speed of light?,Unit 2,physics,medium,numeric,"physics,light,constants","299,792,458 m/s",2
+11,Who wrote Romeo and Juliet?,Unit 4,literature,easy,text,"literature,shakespeare,plays",William Shakespeare,2
+12,What is the square root of 144?,Unit 1,mathematics,easy,numeric,"math,square root,arithmetic",12,2
+13,Explain object-oriented programming concepts with examples,Unit 3,programming,hard,essay,"programming,oop,concepts","Object-oriented programming is a paradigm based on objects and classes. Key concepts include encapsulation, inheritance, polymorphism, and abstraction. For example, a Car class can have properties like color and methods like start().",16
+14,What is democracy and its key features?,Unit 4,politics,medium,essay,"politics,government,democracy","Democracy is a system of government where power is held by the people, either directly or through elected representatives. Key features include free elections, rule of law, protection of rights, and majority rule with minority protection.",16
+15,How many continents are there?,Unit 4,geography,easy,numeric,"geography,continents,world",7,2
+16,What is HTML and its purpose?,Unit 3,programming,easy,text,"programming,web development,html",HyperText Markup Language - used for creating web pages,2
+17,What is the boiling point of water?,Unit 2,chemistry,easy,numeric,"chemistry,water,temperature",100°C or 212°F,2
+18,Who painted the Mona Lisa?,Unit 4,art,medium,text,"art,painting,leonardo da vinci",Leonardo da Vinci,2
+19,Derive and explain the quadratic formula,Unit 1,mathematics,hard,essay,"mathematics,algebra,quadratic","The quadratic formula x = (-b ± √(b² - 4ac)) / 2a is derived from the general quadratic equation ax² + bx + c = 0 by completing the square method.",16
+20,Explain the four fundamental forces in physics,Unit 2,physics,hard,essay,"physics,forces,fundamental","The four fundamental forces are: 1) Gravitational force - attraction between masses, 2) Electromagnetic force - electric and magnetic interactions, 3) Strong nuclear force - holds atomic nuclei together, 4) Weak nuclear force - responsible for radioactive decay.",16
+21,What is the largest mammal?,Unit 2,biology,easy,text,"biology,mammals,animals",Blue whale,2
+22,What year did World War II end?,Unit 4,history,medium,numeric,"history,world war,dates",1945,2
+23,What is CSS used for?,Unit 3,programming,easy,text,"programming,web development,css",Cascading Style Sheets - used for styling web pages,2
+24,What is the formula for water?,Unit 2,chemistry,easy,text,"chemistry,formulas,water",H2O,2
+25,Analyze the themes in Shakespeare's Hamlet,Unit 4,literature,hard,essay,"literature,shakespeare,plays","Hamlet explores themes of revenge, madness, mortality, and moral corruption. The play examines the conflict between thought and action, appearance vs reality, and the inevitability of death.",16
+26,What is the smallest prime number?,Unit 1,mathematics,medium,numeric,"mathematics,prime numbers,number theory",2,2
+27,What is the capital of Japan?,Unit 4,geography,easy,text,"geography,capitals,japan",Tokyo,2
+28,Explain mitosis and its stages,Unit 2,biology,medium,essay,"biology,cell division,mitosis","Mitosis is cell division producing two identical diploid cells. Stages: Prophase (chromosomes condense), Metaphase (chromosomes align), Anaphase (chromosomes separate), Telophase (nuclear membranes reform).",16
+29,What is Newton's law of gravity?,Unit 2,physics,medium,text,"physics,gravity,newton",Objects attract each other with a force proportional to their masses and inversely proportional to the square of the distance between them,2
+30,What is JavaScript?,Unit 3,programming,easy,text,"programming,web development,javascript",A programming language commonly used for web development,2
+31,Explain the periodic table organization,Unit 2,chemistry,medium,essay,"chemistry,periodic table,elements","The periodic table arranges elements by atomic number in periods (rows) and groups (columns). Elements in the same group have similar properties due to identical valence electron configurations.",16
+32,Who was the first person on the moon?,Unit 4,history,medium,text,"history,space,moon landing",Neil Armstrong,2
+33,What is a sonnet?,Unit 4,literature,medium,text,"literature,poetry,sonnet",A 14-line poem with a specific rhyme scheme,2
+34,Prove the Pythagorean theorem,Unit 1,mathematics,hard,essay,"mathematics,geometry,pythagorean theorem","The Pythagorean theorem states a² + b² = c² for right triangles. Proof: Consider a square with side (a+b) containing four right triangles and an inner square with side c.",16
+35,What is DNA?,Unit 2,biology,medium,text,"biology,genetics,dna",Deoxyribonucleic acid - carries genetic information,2
+36,Describe the Renaissance period,Unit 4,history,medium,essay,"history,renaissance,culture","The Renaissance (14th-17th centuries) was a period of cultural rebirth in Europe featuring renewed interest in classical learning, art, science, and humanism. Key figures include Leonardo da Vinci, Michelangelo, and Galileo.",16
+37,What is an algorithm?,Unit 3,programming,medium,text,"programming,algorithms,computer science",A step-by-step procedure for solving a problem,2
+38,Explain evolution by natural selection,Unit 2,biology,hard,essay,"biology,evolution,darwin","Evolution is the process by which species change over time through natural selection. Organisms with favorable traits survive and reproduce more successfully, passing these traits to offspring.",16
+39,Describe quantum mechanics principles,Unit 2,physics,hard,essay,"physics,quantum,mechanics","Quantum mechanics describes atomic and subatomic particle behavior. Key principles include wave-particle duality, uncertainty principle, and quantized energy levels. It revolutionized our understanding of matter and energy.",16
+40,What is the Great Wall of China?,Unit 4,history,easy,text,"history,china,architecture",A fortification built across northern China,2
+41,Explain machine learning and its applications,Unit 3,programming,hard,essay,"programming,AI,machine learning","Machine learning is a subset of AI enabling computers to learn without explicit programming. Applications include image recognition, natural language processing, recommendation systems, and predictive analytics.",16
+42,Describe the photosynthesis equation and process,Unit 2,biology,hard,essay,"biology,photosynthesis,equation","6CO2 + 6H2O + light energy → C6H12O6 + 6O2. Light-dependent reactions occur in thylakoids producing ATP and NADPH. Calvin cycle in stroma uses these to fix CO2 into glucose.",16
+43,Explain Einstein's theory of relativity,Unit 2,physics,hard,essay,"physics,relativity,einstein","Einstein's relativity includes special relativity (space-time relationship, E=mc²) and general relativity (gravity as space-time curvature). It revolutionized physics and our understanding of the universe.",16
+44,Analyze the Industrial Revolution impact,Unit 4,history,hard,essay,"history,industrial revolution,technology","The Industrial Revolution (18th-19th centuries) transformed society through mechanization, urbanization, and new transportation. It brought economic growth but also social challenges like poor working conditions.",16
+45,Explain database design principles,Unit 3,programming,medium,essay,"programming,database,design","Database design involves normalization to reduce redundancy, establishing relationships between tables, defining primary and foreign keys, and ensuring data integrity through constraints.",16
+46,What is global warming?,Unit 2,science,medium,text,"science,climate,environment",The long-term increase in Earth's average surface temperature,2
+47,What is the Constitution?,Unit 4,politics,medium,text,"politics,law,constitution",The supreme law of a country outlining government structure and rights,2
+48,Describe the water cycle,Unit 2,science,easy,essay,"science,water,cycle","The continuous movement of water through evaporation from surfaces, condensation in clouds, and precipitation back to Earth. Includes transpiration from plants and groundwater flow.",16
+49,What is a relational database?,Unit 3,programming,medium,text,"programming,database,data",An organized collection of structured information stored in tables with relationships,2
+50,Explain the immune system function,Unit 2,biology,medium,essay,"biology,immune system,health","The immune system defends against pathogens through innate immunity (barriers, white blood cells) and adaptive immunity (antibodies, T-cells). It provides memory for faster future responses.",16

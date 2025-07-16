@@ -1,0 +1,229 @@
+# Predefined Selection Criteria Templates
+
+# Mathematics Templates
+easy_math:
+  name: "Easy Mathematics"
+  description: "Basic math questions for beginners"
+  criteria:
+    topic: ["mathematics", "math", "arithmetic"]
+    difficulty: ["easy"]
+    count: 15
+    diversity: true
+
+medium_math:
+  name: "Medium Mathematics"
+  description: "Intermediate math questions"
+  criteria:
+    topic: ["mathematics", "math", "algebra", "geometry"]
+    difficulty: ["medium"]
+    count: 20
+    diversity: true
+
+advanced_math:
+  name: "Advanced Mathematics"
+  description: "Complex math questions for advanced students"
+  criteria:
+    topic: ["mathematics", "calculus", "trigonometry", "statistics"]
+    difficulty: ["hard", "expert"]
+    count: 15
+    diversity: true
+
+# Science Templates
+basic_science:
+  name: "Basic Science"
+  description: "General science questions"
+  criteria:
+    topic: ["science", "physics", "chemistry", "biology"]
+    difficulty: ["easy", "medium"]
+    count: 25
+    diversity: true
+
+physics_focus:
+  name: "Physics Focus"
+  description: "Physics-specific questions"
+  criteria:
+    topic: ["physics", "mechanics", "thermodynamics", "electromagnetism"]
+    difficulty: ["medium", "hard"]
+    count: 20
+    diversity: true
+
+chemistry_basics:
+  name: "Chemistry Basics"
+  description: "Fundamental chemistry questions"
+  criteria:
+    topic: ["chemistry", "organic chemistry", "inorganic chemistry"]
+    difficulty: ["easy", "medium"]
+    count: 18
+    diversity: true
+
+# Programming Templates
+programming_basics:
+  name: "Programming Basics"
+  description: "Basic programming concepts"
+  criteria:
+    topic: ["programming", "coding", "algorithms"]
+    difficulty: ["easy", "medium"]
+    type: ["text", "code"]
+    count: 20
+    diversity: true
+
+advanced_programming:
+  name: "Advanced Programming"
+  description: "Complex programming challenges"
+  criteria:
+    topic: ["programming", "data structures", "algorithms", "software engineering"]
+    difficulty: ["hard", "expert"]
+    type: ["code", "text"]
+    count: 15
+    diversity: true
+
+web_development:
+  name: "Web Development"
+  description: "Web development questions"
+  criteria:
+    topic: ["web development", "html", "css", "javascript", "react"]
+    difficulty: ["medium", "hard"]
+    count: 20
+    keywords: ["html", "css", "javascript", "react", "node"]
+    diversity: true
+
+# General Templates
+mixed_easy:
+  name: "Mixed Easy"
+  description: "Easy questions from various topics"
+  criteria:
+    difficulty: ["easy"]
+    count: 30
+    diversity: true
+
+mixed_medium:
+  name: "Mixed Medium"
+  description: "Medium difficulty questions from various topics"
+  criteria:
+    difficulty: ["medium"]
+    count: 25
+    diversity: true
+
+mixed_hard:
+  name: "Mixed Hard"
+  description: "Hard questions from various topics"
+  criteria:
+    difficulty: ["hard"]
+    count: 15
+    diversity: true
+
+# Exam Templates
+quick_quiz:
+  name: "Quick Quiz"
+  description: "Short quiz with mixed questions"
+  criteria:
+    count: 10
+    diversity: true
+    max_length: 200
+
+comprehensive_exam:
+  name: "Comprehensive Exam"
+  description: "Comprehensive exam with varied difficulty"
+  criteria:
+    difficulty: ["easy", "medium", "hard"]
+    count: 50
+    diversity: true
+
+midterm_practice:
+  name: "Midterm Practice"
+  description: "Practice questions for midterm exam"
+  criteria:
+    difficulty: ["medium", "hard"]
+    count: 30
+    diversity: true
+
+final_exam:
+  name: "Final Exam"
+  description: "Final exam questions covering all topics"
+  criteria:
+    difficulty: ["medium", "hard", "expert"]
+    count: 40
+    diversity: true
+
+# Subject-Specific Templates
+english_literature:
+  name: "English Literature"
+  description: "Literature and language questions"
+  criteria:
+    topic: ["english", "literature", "language", "grammar"]
+    difficulty: ["medium", "hard"]
+    count: 20
+    diversity: true
+
+history_focus:
+  name: "History Focus"
+  description: "Historical questions and events"
+  criteria:
+    topic: ["history", "world history", "ancient history", "modern history"]
+    difficulty: ["medium", "hard"]
+    count: 25
+    diversity: true
+
+geography_basics:
+  name: "Geography Basics"
+  description: "Geography and earth sciences"
+  criteria:
+    topic: ["geography", "earth science", "geology", "climate"]
+    difficulty: ["easy", "medium"]
+    count: 20
+    diversity: true
+
+# Special Purpose Templates
+multiple_choice_only:
+  name: "Multiple Choice Only"
+  description: "Only multiple choice questions"
+  criteria:
+    type: ["multiple_choice"]
+    count: 25
+    diversity: true
+
+essay_questions:
+  name: "Essay Questions"
+  description: "Essay-type questions for detailed answers"
+  criteria:
+    type: ["essay"]
+    difficulty: ["medium", "hard"]
+    count: 10
+    diversity: true
+
+short_answer:
+  name: "Short Answer"
+  description: "Short answer questions"
+  criteria:
+    type: ["text"]
+    max_length: 300
+    count: 20
+    diversity: true
+
+# Custom Templates (Examples)
+stem_focus:
+  name: "STEM Focus"
+  description: "Science, Technology, Engineering, Math questions"
+  criteria:
+    topic: ["science", "technology", "engineering", "mathematics", "physics", "chemistry", "biology", "programming"]
+    difficulty: ["medium", "hard"]
+    count: 30
+    diversity: true
+
+liberal_arts:
+  name: "Liberal Arts"
+  description: "Liberal arts and humanities questions"
+  criteria:
+    topic: ["literature", "history", "philosophy", "art", "music", "language"]
+    difficulty: ["medium", "hard"]
+    count: 25
+    diversity: true
+
+professional_skills:
+  name: "Professional Skills"
+  description: "Professional and career-oriented questions"
+  criteria:
+    topic: ["business", "management", "communication", "leadership", "project management"]
+    difficulty: ["medium", "hard"]
+    count: 20
+    diversity: true

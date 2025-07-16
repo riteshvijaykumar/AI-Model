@@ -1,0 +1,51 @@
+id,question,topic,difficulty,type,keywords,answer,marks
+1,What is the capital of France?,geography,easy,text,"geography,capitals,france",Paris,2
+2,Calculate 15 * 23,mathematics,easy,numeric,"math,multiplication,arithmetic",345,2
+3,What is the chemical symbol for gold?,chemistry,medium,text,"chemistry,elements,symbols",Au,2
+4,Write a Python function to find the maximum of two numbers,programming,medium,code,"python,programming,functions","def max_two(a, b): return a if a > b else b",2
+5,What caused World War I?,history,medium,essay,"history,world war,causes","Multiple factors including nationalism, imperialism, alliance system, and the assassination of Archduke Franz Ferdinand",2
+6,What is 2 + 2?,mathematics,easy,numeric,"math,addition,basic",4,2
+7,Name the three states of matter,science,easy,text,"science,physics,states of matter","solid, liquid, gas",2
+8,What is the largest planet in our solar system?,astronomy,easy,text,"astronomy,planets,solar system",Jupiter,2
+9,Define photosynthesis,biology,medium,text,"biology,plants,photosynthesis",The process by which plants convert light energy into chemical energy,2
+10,What is the speed of light?,physics,medium,numeric,"physics,light,constants","299,792,458 m/s",2
+11,Who wrote 'Romeo and Juliet'?,literature,easy,text,"literature,shakespeare,plays",William Shakespeare,2
+12,What is the square root of 144?,mathematics,easy,numeric,"math,square root,arithmetic",12,2
+13,Name the first programming language,programming,hard,text,"programming,history,languages",Assembly language or machine code,16
+14,What is democracy?,politics,medium,text,"politics,government,democracy",A system of government where power is held by the people,16
+15,How many continents are there?,geography,easy,numeric,"geography,continents,world",7,16
+16,What is HTML?,programming,easy,text,"programming,web development,html",HyperText Markup Language - used for creating web pages,16
+17,What is the boiling point of water?,chemistry,easy,numeric,"chemistry,water,temperature",100°C or 212°F,16
+18,Who painted the Mona Lisa?,art,medium,text,"art,painting,leonardo da vinci",Leonardo da Vinci,16
+19,What is the derivative of x²?,mathematics,hard,text,"mathematics,calculus,derivatives",2x,16
+20,Name the four fundamental forces,physics,hard,text,"physics,forces,fundamental","Gravitational, electromagnetic, strong nuclear, weak nuclear",16
+21,What is the largest mammal?,biology,easy,text,"biology,mammals,animals",Blue whale,2
+22,What year did World War II end?,history,medium,numeric,"history,world war,dates",1945,5
+23,What is CSS used for?,programming,easy,text,"programming,web development,css",Cascading Style Sheets - used for styling web pages,2
+24,What is the formula for water?,chemistry,easy,text,"chemistry,formulas,water",H2O,2
+25,Name Shakespeare's longest play,literature,hard,text,"literature,shakespeare,plays",Hamlet,16
+26,What is the smallest prime number?,mathematics,medium,numeric,"mathematics,prime numbers,number theory",2,5
+27,What is the capital of Japan?,geography,easy,text,"geography,capitals,japan",Tokyo,2
+28,What is mitosis?,biology,medium,text,"biology,cell division,mitosis",The process of cell division that produces two identical cells,2
+29,What is the law of gravity?,physics,medium,text,"physics,gravity,newton",Objects attract each other with a force proportional to their masses and inversely proportional to the square of the distance between them,2
+30,What is JavaScript?,programming,easy,text,"programming,web development,javascript",A programming language commonly used for web development,2
+31,What is the periodic table?,chemistry,medium,text,"chemistry,periodic table,elements",A tabular arrangement of chemical elements organized by atomic number,5
+32,Who was the first person on the moon?,history,medium,text,"history,space,moon landing",Neil Armstrong,2
+33,What is a sonnet?,literature,medium,text,"literature,poetry,sonnet",A 14-line poem with a specific rhyme scheme,5
+34,What is the Pythagorean theorem?,mathematics,medium,text,"mathematics,geometry,pythagorean theorem",a² + b² = c² for right triangles,5
+35,What is DNA?,biology,medium,text,"biology,genetics,dna",Deoxyribonucleic acid - carries genetic information,2
+36,What is the Renaissance?,history,medium,text,"history,renaissance,culture",A period of cultural rebirth in Europe from 14th to 17th centuries,5
+37,What is an algorithm?,programming,medium,text,"programming,algorithms,computer science",A step-by-step procedure for solving a problem,2
+38,What is evolution?,biology,hard,text,"biology,evolution,darwin",The process by which species change over time through natural selection,16
+39,What is quantum mechanics?,physics,hard,text,"physics,quantum,mechanics",The branch of physics dealing with atomic and subatomic particles,16
+40,What is the Great Wall of China?,history,easy,text,"history,china,architecture",A fortification built across northern China,2
+41,What is machine learning?,programming,hard,text,"programming,AI,machine learning",A subset of AI that enables computers to learn without explicit programming,16
+42,What is photosynthesis equation?,biology,hard,text,"biology,photosynthesis,equation",6CO2 + 6H2O + light energy → C6H12O6 + 6O2,16
+43,What is the theory of relativity?,physics,hard,text,"physics,relativity,einstein","Einstein's theory describing space, time, and gravity",16
+44,What is the Industrial Revolution?,history,medium,text,"history,industrial revolution,technology",The transition to mechanized manufacturing in the 18th-19th centuries,5
+45,What is object-oriented programming?,programming,medium,text,"programming,OOP,concepts",A programming paradigm based on objects and classes,5
+46,What is global warming?,science,medium,text,"science,climate,environment",The long-term increase in Earth's average surface temperature,2
+47,What is the Constitution?,politics,medium,text,"politics,law,constitution",The supreme law of a country outlining government structure and rights,5
+48,What is the water cycle?,science,easy,text,"science,water,cycle","The continuous movement of water through evaporation, condensation, and precipitation",2
+49,What is a database?,programming,medium,text,"programming,database,data",An organized collection of structured information,2
+50,What is the immune system?,biology,medium,text,"biology,immune system,health",The body's defense system against pathogens and diseases,2

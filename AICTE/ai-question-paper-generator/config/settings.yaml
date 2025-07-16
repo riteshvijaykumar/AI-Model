@@ -1,0 +1,94 @@
+# Application Settings
+app:
+  name: "AI Question Bank Selection Model"
+  version: "1.0.0"
+  debug: false
+
+# AI Model Configuration
+ai_models:
+  topic_classifier:
+    model_type: "logistic_regression"
+    max_features: 5000
+    ngram_range: [1, 2]
+    
+  difficulty_classifier:
+    model_type: "random_forest"
+    n_estimators: 100
+    max_features: 3000
+    
+  type_classifier:
+    model_type: "naive_bayes"
+    max_features: 2000
+    
+  sentence_transformer:
+    model_name: "all-MiniLM-L6-v2"
+    
+# Selection Engine Configuration
+selection:
+  default_count: 20
+  diversity_factor: 0.3
+  relevance_threshold: 0.5
+  max_questions: 1000
+  
+# Valid Values
+valid_difficulties:
+  - "easy"
+  - "medium"
+  - "hard"
+  - "expert"
+  
+valid_types:
+  - "text"
+  - "multiple_choice"
+  - "true_false"
+  - "essay"
+  - "numeric"
+  - "code"
+  
+# File Processing
+file_processing:
+  supported_formats:
+    - ".csv"
+    - ".xlsx"
+    - ".xls"
+    - ".json"
+    - ".txt"
+  
+  max_file_size: "100MB"
+  encoding: "utf-8"
+  
+# Export Configuration
+export:
+  default_format: "excel"
+  default_columns:
+    - "id"
+    - "question"
+    - "topic"
+    - "difficulty"
+    - "type"
+    - "keywords"
+    - "answer"
+    
+  excel_styling:
+    header:
+      font:
+        bold: true
+        color: "FFFFFF"
+      fill:
+        start_color: "4472C4"
+        end_color: "4472C4"
+        fill_type: "solid"
+    
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/application.log"
+  
+# Paths
+paths:
+  data_dir: "data"
+  models_dir: "data/models"
+  templates_dir: "data/templates"
+  logs_dir: "logs"
+  temp_dir: "temp"
